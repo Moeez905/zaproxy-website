@@ -80,7 +80,7 @@
   font-weight: bold;
   text-decoration: none;
   transition: all 100ms ease;
-  font-size: 25px;
+  font-size:  1em;
 }
 
 .site-header nav a:hover {
@@ -127,8 +127,6 @@
   background-clip: padding-box; 
   font-size: 0.9em;
   transition: all 40ms cubic-bezier(0.42, 0, 1, 1);
-  
-  
 }
 
 .site-header  li:hover {
