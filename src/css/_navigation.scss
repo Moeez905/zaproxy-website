@@ -92,7 +92,6 @@
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
-
   /* CSS styles for small devices */
   .site-header nav a {
     font-size: 0.7em;
@@ -136,7 +135,6 @@
   top: 100px;
   left: -8px;
   opacity: 0;
-  ;
   font-weight: normal;
   border: solid 2px rgba(255, 255, 255, 0.5);
   background-clip: padding-box;
@@ -150,8 +148,6 @@
     opacity: 1;
   }
 }
-
-
 
 .hamburger-click {
   cursor: pointer;
@@ -171,7 +167,6 @@
 input {
   cursor: pointer;
   z-index: 2;
-
 }
 
 .download-button {
