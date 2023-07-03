@@ -19,6 +19,7 @@
   }
 }
 
+
 .footer-social li {
   width: 47px;
   height: 47px;
@@ -36,10 +37,13 @@
 }
 
 @media screen and (max-width: 825px) {
+
   .site-footer {
     display: none;
   }
+
   .footer-social {
     display: none;
   }
 }
+
